@@ -1,8 +1,4 @@
 # Halftoning_Implementataion_01
-# 🖼️ Digital Halftoning Methods  
-
-This project implements and visualizes different **halftoning techniques** for grayscale and color images.  
-Halftoning simulates continuous-tone images using binary patterns (black and white dots), which is widely used in printing, display rendering, and image compression.
 
 ---
 
